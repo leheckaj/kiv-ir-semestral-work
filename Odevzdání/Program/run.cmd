@@ -1,0 +1,1 @@
+java --module-path "C:\Program Files\OpenJFX11\lib" --add-modules javafx.controls,javafx.fxml -jar SP.jar
